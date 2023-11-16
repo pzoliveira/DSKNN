@@ -1,2 +1,2 @@
-# DSSKNN
+# DSKNN
 KNN learning with TreinaWeb
